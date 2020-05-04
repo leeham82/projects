@@ -6,7 +6,7 @@
 # Usage: ./true_layer.sh
 
 # Creates a folder in your home directory called TrueLayer
-mkdir ~/TrueLayer
+mkdir -p ~/TrueLayer
 
 # Creates a file in the TrueLayer folder called TLTest.txt and dumps into the file:
 #   The time when the script has been run
