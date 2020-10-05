@@ -2,7 +2,7 @@
 # File: setup_mac.sh
 # Author: Liam Williamson
 # Creation date: 28th June 2019
-# Description: Used to install and configure Corax Engineering MacBooks
+# Description: Used to install and configure Engineering MacBooks
 # Usage: ./setup_mac.sh 2>&1 | tee setup_mac.log
 . std_lib.sh
 
