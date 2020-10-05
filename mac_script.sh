@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# File: true_layer.sh
+# File: mac_script.sh
 # Author: Liam Williamson
 # Creation date: 20th April 2020
 # Description: TrueLayer Senior IT Engineer Challenge
