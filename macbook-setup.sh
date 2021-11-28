@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Setup script for setting up a new macos machine
-echo "Starting setup"
+echo "Starting setup..."
 
 # install xcode CLI
 xcode-select --install
@@ -25,8 +25,10 @@ PACKAGES=(
     google-drive
     vlc
     keka
+    mas
+    terminal-notifier
 )
 echo "Installing packages..."
 brew install ${PACKAGES[@]}
 
-echo "Macbook setup completed!"
+echo "Macbook setup completed!" | terminal-notifier -sound default
