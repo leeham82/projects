@@ -11,7 +11,6 @@ brew upgrade
 
 # Remove stale lock files and outdated downloads for all formulae and casks, and remove old versions of installed formulae.
 brew cleanup -s
-brew cask cleanup
 
 # Brew diagnostics
 brew doctor
