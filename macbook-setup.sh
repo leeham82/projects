@@ -22,6 +22,7 @@ PACKAGES=(
     adobe-acrobat-reader
     visual-studio-code
     google-chrome
+    brave-browser
     google-drive
     vlc
     keka
