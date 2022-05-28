@@ -19,6 +19,8 @@ PACKAGES=(
     cask
     git
     iterm2
+    github
+    rectangle
     adobe-acrobat-reader
     visual-studio-code
     google-chrome
