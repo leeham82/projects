@@ -16,20 +16,26 @@ fi
 brew update
 
 PACKAGES=(
-    cask
-    git
-    iterm2
-    github
-    rectangle
     adobe-acrobat-reader
-    visual-studio-code
-    google-chrome
     brave-browser
+    cask
+    gimp
+    git
+    github
+    google-chrome
     google-drive
-    vlc
+    iterm2
     keka
     mas
+    readline
+    rectangle
+    snappy
+    speedtest-cli
+    tcpdump
     terminal-notifier
+    tldr
+    visual-studio-code
+    vlc
 )
 echo "Installing packages..."
 brew install ${PACKAGES[@]}
