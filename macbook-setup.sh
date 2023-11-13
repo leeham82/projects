@@ -19,6 +19,7 @@ brew update
 
 PACKAGES=(
     adobe-acrobat-reader
+    anydesk
     brave-browser
     cask
     gimp
